@@ -1,0 +1,8 @@
+# Node modules
+node_modules
+
+# macOS-specific files
+.DS_Store
+
+# There's no need for source maps on the server
+dist/**/*.map
